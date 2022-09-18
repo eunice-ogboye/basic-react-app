@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+
+.content{
+    color: #fff;
+    background-color: rgb(35, 26, 54);
+    height: 50%;
+    width: 30%;
+    margin: 10% auto;
+    padding: 2%;
+    border-radius: 20px;
+}
+
+.rate{
+    display: flex;
+}
+.rank{
+    background-color: rgb(77, 70, 70);
+    padding: 5% 6%;
+    border-radius: 100px;
+    margin: 2%;
+    max-width: 100%;
+}
+.rep{
+    color: rgb(208, 205, 205);
+}
+.btn{
+    background-color: rgb(232, 102, 10);
+    width: 100%;
+    color: #fff;
+    padding: 2% 0;
+    border-radius: 30px;
+}
